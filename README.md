@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Anqorr 
-- 👀 I’m interested in programinh
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning python
+
 
 <!---
 Anqorr/Anqorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
